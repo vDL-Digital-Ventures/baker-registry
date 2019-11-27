@@ -1,1 +1,23 @@
-{"bakerName":"StakeNow","bakerAccount":"tz1g8vkmcde6sWKaG2NN9WKzCkDM6Rziq194","signupRequired":"false","country":"Germany","website":"https://stakenow.de/","bakerDescription":"Our bakery is the best, and here are any extra details we think everyone should know in 280 characters or less.","nonStandardPaymentDescription":"","upcomingPaymentModelDescription":"","branding":{"logo256":"https://api.baking-bad.org/logos/stakenow.png","logo1024":"","logoSvg":""},"support":{"email":"","supportUrl":"https://t.me/StakeNow"},"projects":[{"projectName":"Tezos reward distributor","projectUrl":"https://github.com/habanoz/tezos-reward-distributor"}],"social":{"twitter":"https://twitter.com/StakeNow","telegram":"https://t.me/jdsika"},"team":[{"teamMemberName":"Carlo van Driesten","teamMemberProfile":"https://www.linkedin.com/in/carlo-van-driesten-69337a175/","teamMemberImageUrl":""},{"teamMemberName":"Daniel Liebert","teamMemberProfile":"https://www.linkedin.com/in/danielliebert/","teamMemberImageUrl":""}]}
+{"bakerName":"StakeNow",
+    "bakerAccount":"tz1g8vkmcde6sWKaG2NN9WKzCkDM6Rziq194",
+    "signupRequired":"false",
+    "country":"Germany",
+    "website":"https://stakenow.de/",
+    "bakerDescription":"StakeNow is a compliant and professional staking service for the Tezos blockchain. It serves private and institutional investors all around the globe with its highly efficient and secure infrastructure to generate profits from holding digital assets.",
+    "nonStandardPaymentDescription":"",
+    "upcomingPaymentModelDescription":"We will adjust our fees from 4.99% to 14.99% by 01/01/2020",
+    "branding":{
+        "logo256":"https://api.baking-bad.org/logos/stakenow.png",
+        "logo1024":"",
+        "logoSvg":""},
+    "support":{"email":"info@vdl.digital","supportUrl":"https://t.me/StakeNow"},
+    "projects":[{"projectName":"Tezos Reward Distributor","projectUrl":"https://github.com/habanoz/tezos-reward-distributor"}],
+    "social":{"twitter":"https://twitter.com/StakeNow","telegram":"https://t.me/StakeNow"},
+        "team":[{"teamMemberName":"Carlo van Driesten","teamMemberProfile":"https://www.linkedin.com/in/carlo-van-driesten-69337a175/","teamMemberImageUrl":""},
+                {"teamMemberName":"Daniel Liebert","teamMemberProfile":"https://www.linkedin.com/in/danielliebert/","teamMemberImageUrl":""},
+                {"teamMemberName":"Ahmed Mzid","teamMemberProfile":"https://www.linkedin.com/in/ahmed-mzid-947602a1/","teamMemberImageUrl":""},
+                {"teamMemberName":"Roy Scheeren","teamMemberProfile":"https://www.linkedin.com/in/royscheeren/","teamMemberImageUrl":""}
+            ]
+            
+            
+}
